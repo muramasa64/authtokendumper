@@ -1,0 +1,6 @@
+[package]
+name = "authtokendumper"
+version = "0.1.0"
+authors = ["ISOBE Kazuhiko <muramasa64@gmail.com>"]
+
+[dependencies]
